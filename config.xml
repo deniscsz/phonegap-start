@@ -4,15 +4,16 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>PhoneGap: XPD App</name>
 
 	<description>
 		A template for getting started with PhoneGap development and build.phonegap.com
+		Descrição do XPD App
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://deniscsz.github.com"
+		email="deniscsz@gmail.com">
+		Denis Colli Spalenza
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
